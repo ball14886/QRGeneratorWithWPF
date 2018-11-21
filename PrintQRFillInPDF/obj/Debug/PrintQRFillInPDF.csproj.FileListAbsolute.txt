@@ -1,0 +1,15 @@
+E:\Projects\MillionCreation\PrintQRByFillQRInA4PDF\PrintQRFillInPDF\PrintQRFillInPDF\bin\Debug\PrintQRFillInPDF.exe.config
+E:\Projects\MillionCreation\PrintQRByFillQRInA4PDF\PrintQRFillInPDF\PrintQRFillInPDF\bin\Debug\PrintQRFillInPDF.exe
+E:\Projects\MillionCreation\PrintQRByFillQRInA4PDF\PrintQRFillInPDF\PrintQRFillInPDF\bin\Debug\PrintQRFillInPDF.pdb
+E:\Projects\MillionCreation\PrintQRByFillQRInA4PDF\PrintQRFillInPDF\PrintQRFillInPDF\obj\Debug\PrintQRFillInPDF.csprojAssemblyReference.cache
+E:\Projects\MillionCreation\PrintQRByFillQRInA4PDF\PrintQRFillInPDF\PrintQRFillInPDF\obj\Debug\MainWindow.g.cs
+E:\Projects\MillionCreation\PrintQRByFillQRInA4PDF\PrintQRFillInPDF\PrintQRFillInPDF\obj\Debug\App.g.cs
+E:\Projects\MillionCreation\PrintQRByFillQRInA4PDF\PrintQRFillInPDF\PrintQRFillInPDF\obj\Debug\PrintQRFillInPDF_MarkupCompile.cache
+E:\Projects\MillionCreation\PrintQRByFillQRInA4PDF\PrintQRFillInPDF\PrintQRFillInPDF\obj\Debug\PrintQRFillInPDF_MarkupCompile.lref
+E:\Projects\MillionCreation\PrintQRByFillQRInA4PDF\PrintQRFillInPDF\PrintQRFillInPDF\obj\Debug\MainWindow.baml
+E:\Projects\MillionCreation\PrintQRByFillQRInA4PDF\PrintQRFillInPDF\PrintQRFillInPDF\obj\Debug\PrintQRFillInPDF.g.resources
+E:\Projects\MillionCreation\PrintQRByFillQRInA4PDF\PrintQRFillInPDF\PrintQRFillInPDF\obj\Debug\PrintQRFillInPDF.Properties.Resources.resources
+E:\Projects\MillionCreation\PrintQRByFillQRInA4PDF\PrintQRFillInPDF\PrintQRFillInPDF\obj\Debug\PrintQRFillInPDF.csproj.GenerateResource.cache
+E:\Projects\MillionCreation\PrintQRByFillQRInA4PDF\PrintQRFillInPDF\PrintQRFillInPDF\obj\Debug\PrintQRFillInPDF.csproj.CoreCompileInputs.cache
+E:\Projects\MillionCreation\PrintQRByFillQRInA4PDF\PrintQRFillInPDF\PrintQRFillInPDF\obj\Debug\PrintQRFillInPDF.exe
+E:\Projects\MillionCreation\PrintQRByFillQRInA4PDF\PrintQRFillInPDF\PrintQRFillInPDF\obj\Debug\PrintQRFillInPDF.pdb

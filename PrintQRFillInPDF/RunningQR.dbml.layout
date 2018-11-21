@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="RunningQR">
+  <DataContextMoniker Name="/RunningQRDataContext" />
+  <nestedChildShapes>
+    <classShape Id="6467023c-ba0e-4b9e-90c6-1ea4ea070fd5" absoluteBounds="0.75, 0.75, 2, 2.5401025390625005">
+      <DataClassMoniker Name="/RunningQRDataContext/RunnerInfo" />
+      <nestedChildShapes>
+        <elementListCompartment Id="2fd1bb46-df61-448b-99f8-bab4da0bba5b" absoluteBounds="0.765, 1.21, 1.9700000000000002, 1.9801025390625" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="f8536b5d-58c1-4efd-a207-d93758c2f5f7" absoluteBounds="3.75, 0.75, 2, 1.3862939453125">
+      <DataClassMoniker Name="/RunningQRDataContext/RunnerScanDateTime" />
+      <nestedChildShapes>
+        <elementListCompartment Id="76bdddb4-2324-436c-a1d7-07a8287d5556" absoluteBounds="3.765, 1.21, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
